@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 297 210"
+   height="210mm"
+   width="297mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1018"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="288.42755"
+     inkscape:cx="545.91714"
+     inkscape:zoom="0.98994949"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Warstwa 1">
+    <text
+       transform="scale(0.75727847,1.3205182)"
+       id="text12"
+       y="61.318336"
+       x="67.721077"
+       style="font-style:normal;font-weight:normal;font-size:11.79px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.29475;"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.29475;fill:#f2f2f2;"
+         y="61.318336"
+         x="67.721077"
+         id="tspan10"
+         sodipodi:role="line">Karp's</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.79px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.294751;"
+       x="282.97195"
+       y="99.641457"
+       id="text12-3"
+       transform="scale(0.75727847,1.3205182)"><tspan
+         sodipodi:role="line"
+         id="tspan10-6"
+         x="282.97195"
+         y="99.641457"
+         style="stroke-width:0.294751;fill:#f9f9f9;">APP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.1824px;line-height:1.25;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.30457"
+       x="28.179808"
+       y="120.24078"
+       id="text16-7"
+       transform="matrix(0.78423769,-0.16853386,0.26192938,1.2188346,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan14-1"
+         x="28.179808"
+         y="120.24078"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';fill:#f9f9f9;stroke-width:1.30457">MineTodo</tspan></text>
+  </g>
+</svg>
